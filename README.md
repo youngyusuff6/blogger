@@ -21,13 +21,13 @@ The Blog API is a Laravel-based RESTful API designed to manage blog posts and us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-api.git
+   git clone https://github.com/youngyusuff6/blogger.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd blog-api
+   cd blogger
    ```
 
 3. Install dependencies:
@@ -111,11 +111,3 @@ The Blog API is a Laravel-based RESTful API designed to manage blog posts and us
 - **DELETE /blogs/{blog_id}**
   - Delete an existing blog post.
   - Requires a valid token in the Authorization header.
-
-## Contributing
-
-If you would like to contribute to the development of the Blog API, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
